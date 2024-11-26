@@ -17,9 +17,7 @@ This Django-based telehealth application provides a platform for online medical 
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
-   `gh repo clone cwillett77/telehealth_app`
-   or
-   `https://github.com/cwillett77/telehealth_app.git`
+   `git clone https://github.com/Sandrakimiring/telemedicine_app.git`
 
 2. Navigate to the project directory:
    `cd telehealth_app`
