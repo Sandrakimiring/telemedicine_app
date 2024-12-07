@@ -35,3 +35,5 @@ To set up the project locally, follow these steps:
 
 6. Run database migrations:
 
+
+
